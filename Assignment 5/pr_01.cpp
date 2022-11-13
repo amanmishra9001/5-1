@@ -10,5 +10,5 @@ int main()
     {
         printf("\nAman");
     }
-    printf("\n");
+    printf("\n\n");
 }
